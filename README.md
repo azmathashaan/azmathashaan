@@ -1,368 +1,697 @@
-<div align="center">
-
-<!-- Epic Gaming Header with Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=AZMAT%20HASHAAN&fontSize=70&color=0:ff0000,50:ff6b00,100:ffd500&stroke=ffffff&strokeWidth=2&fontColor=ffffff&animation=fadeIn&desc=PRO%20GAMER%20%7C%20CONTENT%20CREATOR%20%7C%20STREAMER&descSize=20&descAlignY=65"/>
-
-<!-- Animated Gaming GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
-
-<!-- Glitch Effect Title -->
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=35&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=150&lines=%F0%9F%8E%AE+ELITE+GAMER+%F0%9F%8E%AE;%F0%9F%94%A5+STEAM+LEVEL+999+%F0%9F%94%A5;%F0%9F%8F%86+ACHIEVEMENT+HUNTER+%F0%9F%8F%86" alt="Gaming Title"/>
-</h1>
-
-<!-- Animated Pixel Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-<!-- Gaming Stats Bar with Animations -->
-<p>
-<img src="https://img.shields.io/badge/PLATFORM-PC%20MASTER%20RACE-red?style=for-the-badge&logo=windows&logoColor=white&labelColor=black"/>
-<img src="https://img.shields.io/badge/STATUS-ONLINE%20NOW-brightgreen?style=for-the-badge&logo=steam&logoColor=white&labelColor=black"/>
-<img src="https://img.shields.io/badge/RANK-LEGENDARY-gold?style=for-the-badge&logo=game&logoColor=white&labelColor=black"/>
-<img src="https://komarev.com/ghpvc/?username=azmathashaan&label=PROFILE+VISITS&color=ff0000&style=for-the-badge&logo=eye"/>
-</p>
-
-<!-- Animated Fire Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-<!-- Animated Character -->
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="300">
-
-<!-- About Section with Gaming Aesthetic -->
-<h2>
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
-WHO AM I?
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
-</h2>
-
-```diff
-+ 🎯 Professional Gamer | Content Creator | Streamer
-+ 🎮 Conquered Every Open World Game You Can Think Of
-+ 🏎️ Racing Enthusiast | Strategy Master | FPS Legend
-+ 🌍 Building My Gaming Empire One Victory at a Time
-+ 💀 Your Worst Nightmare in Multiplayer Lobbies
-```
-
-<!-- Animated Dragon -->
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
-
-<!-- Epic Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-<!-- Animated Gaming Setup -->
-<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400"/>
-
-<!-- Steam Library Showcase with Game Posters -->
-<h2>
-<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40"/>
-🎮 STEAM LIBRARY 🎮
-<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40"/>
-</h2>
-
-<!-- Animated Controller -->
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-
-<table align="center">
-<tr>
-<td align="center" width="20%">
-<img src="https://image.api.playstation.com/vulcan/ap/rnd/202202/2816/6s08SwXVoprpGZdEGKiDbzwn.png" width="150" height="200" style="border-radius: 10px;"/>
-<br/>
-<b>GTA V</b>
-<br/>
-<img src="https://progress-bar.xyz/100/?scale=100&title=✓&width=120&color=ff6b00&suffix=%"/>
-<br/>
-<sub>⏱️ 1000+ Hours</sub>
-<br/>
-<sub>⭐⭐⭐⭐⭐</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://upload.wikimedia.org/wikipedia/en/b/b7/Grand_Theft_Auto_IV_cover.jpg" width="150" height="200" style="border-radius: 10px;"/>
-<br/>
-<b>GTA IV</b>
-<br/>
-<img src="https://progress-bar.xyz/100/?scale=100&title=✓&width=120&color=000000&suffix=%"/>
-<br/>
-<sub>⏱️ 500+ Hours</sub>
-<br/>
-<sub>⭐⭐⭐⭐⭐</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://image.api.playstation.com/vulcan/ap/rnd/202207/1210/4xJ8XB3bi888QTLZYdl7Oi0s.png" width="150" height="200" style="border-radius: 10px;"/>
-<br/>
-<b>RED DEAD 2</b>
-<br/>
-<img src="https://progress-bar.xyz/100/?scale=100&title=✓&width=120&color=dc143c&suffix=%"/>
-<br/>
-<sub>⏱️ 800+ Hours</sub>
-<br/>
-<sub>⭐⭐⭐⭐⭐</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://image.api.playstation.com/cdn/UP0001/CUSA02369_00/GuEKbG0fhE6TKqvJ40vdvelQu5NgGLbW.png" width="150" height="200" style="border-radius: 10px;"/>
-<br/>
-<b>WATCH DOGS</b>
-<br/>
-<img src="https://progress-bar.xyz/100/?scale=100&title=✓&width=120&color=00d4ff&suffix=%"/>
-<br/>
-<sub>⏱️ 300+ Hours</sub>
-<br/>
-<sub>⭐⭐⭐⭐⭐</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ForzaHorizon5PremiumEdition_PlaygroundGames_Editions_S2_1200x1600-7ab62e90f495b87ce8e0c18c0bd7fc5e" width="150" height="200" style="border-radius: 10px;"/>
-<br/>
-<b>FORZA HORIZON</b>
-<br/>
-<img src="https://progress-bar.xyz/95/?scale=100&title=→&width=120&color=ffd700&suffix=%"/>
-<br/>
-<sub>⏱️ 600+ Hours</sub>
-<br/>
-<sub>⭐⭐⭐⭐⭐</sub>
-</td>
-</tr>
-</table>
-
-<!-- Animated Sword -->
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-
-<table align="center">
-<tr>
-<td align="center" width="20%">
-<img src="https://image.api.playstation.com/vulcan/ap/rnd/202112/0100/XpBhQfHUKof4XJmRdV5vW3hF.png" width="150" height="200" style="border-radius: 10px;"/>
-<br/>
-<b>FAR CRY 3</b>
-<br/>
-<img src="https://progress-bar.xyz/100/?scale=100&title=✓&width=120&color=ff0000&suffix=%"/>
-<br/>
-<sub>⏱️ 400+ Hours</sub>
-<br/>
-<sub>⭐⭐⭐⭐⭐</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://image.api.playstation.com/cdn/UP0082/CUSA02740_00/2FEGqKjQ0pXaq89ttes5YzT6y85poGoq.png" width="150" height="200" style="border-radius: 10px;"/>
-<br/>
-<b>JUST CAUSE 3</b>
-<br/>
-<img src="https://progress-bar.xyz/100/?scale=100&title=✓&width=120&color=ff4500&suffix=%"/>
-<br/>
-<sub>⏱️ 350+ Hours</sub>
-<br/>
-<sub>⭐⭐⭐⭐⭐</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://upload.wikimedia.org/wikipedia/en/3/39/Nfs_most_wanted_box_art.jpg" width="150" height="200" style="border-radius: 10px;"/>
-<br/>
-<b>NFS MW</b>
-<br/>
-<img src="https://progress-bar.xyz/100/?scale=100&title=✓&width=120&color=ffa500&suffix=%"/>
-<br/>
-<sub>⏱️ 450+ Hours</sub>
-<br/>
-<sub>⭐⭐⭐⭐⭐</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/945360/header.jpg" width="150" height="200" style="border-radius: 10px;"/>
-<br/>
-<b>AMONG US</b>
-<br/>
-<img src="https://progress-bar.xyz/90/?scale=100&title=→&width=120&color=00ff00&suffix=%"/>
-<br/>
-<sub>⏱️ 200+ Hours</sub>
-<br/>
-<sub>⭐⭐⭐⭐</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://image.api.playstation.com/vulcan/ap/rnd/202208/0921/dR9KJAKDW2izPuWoKNqj8FE2.png" width="150" height="200" style="border-radius: 10px;"/>
-<br/>
-<b>HOGWARTS LEGACY</b>
-<br/>
-<img src="https://progress-bar.xyz/88/?scale=100&title=→&width=120&color=9c27b0&suffix=%"/>
-<br/>
-<sub>⏱️ 250+ Hours</sub>
-<br/>
-<sub>⭐⭐⭐⭐⭐</sub>
-</td>
-</tr>
-</table>
-
-<!-- Animated Pixel Art -->
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400">
-
-<!-- Epic Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-<!-- Animated Laptop -->
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
-
-<!-- Gaming Setup -->
-<h2>
-<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="35"/>
-⚔️ BATTLE STATION ⚔️
-<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="35"/>
-</h2>
-
-<table align="center">
-<tr>
-<td>
-
-```js
-const BattleStation = {
-    GPU: "RTX 4090 🔥",
-    CPU: "Intel i9-13900K ⚡",
-    RAM: "64GB DDR5 💪",
-    Storage: "4TB NVMe SSD 💾",
-    Monitor: "4K 165Hz Gaming 🖥️",
-    Mouse: "Logitech G Pro X 🖱️",
-    Keyboard: "Razer BlackWidow ⌨️",
-    Headset: "HyperX Cloud Alpha 🎧",
-    Status: "READY TO DOMINATE 🎮"
-};
-```
-
-</td>
-<td>
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400"/>
-</td>
-</tr>
-</table>
-
-<!-- Animated Code -->
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-
-<!-- Epic Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-<!-- Animated Trophy -->
-<img src="https://user-images.githubusercontent.com/74038190/216122049-276f0446-b29e-4b57-9f1b-f5c6c3b4e0b5.gif" width="200">
-
-<!-- GitHub Stats Gaming Theme -->
-<h2>
-<img src="https://user-images.githubusercontent.com/74038190/216122003-73ed7730-e3d1-499c-9eba-da8f5df94083.png" width="35"/>
-📊 PLAYER STATS 📊
-<img src="https://user-images.githubusercontent.com/74038190/216122003-73ed7730-e3d1-499c-9eba-da8f5df94083.png" width="35"/>
-</h2>
-
-<!-- Animated Stats GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-
-<img src="https://github-readme-stats.vercel.app/api?username=azmathashaan&show_icons=true&theme=synthwave&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff6b00&text_color=ffffff&border_radius=15&custom_title=AZMAT%20HASHAAN%20-%20GAMER%20STATS" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=azmathashaan&theme=highcontrast&hide_border=true&background=000000&stroke=ff0000&ring=ff6b00&fire=ffd500&currStreakLabel=ff0000&border_radius=15" width="48%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=azmathashaan&custom_title=GAMING%20ACTIVITY%20GRAPH&bg_color=000000&color=ff0000&line=ff6b00&point=ffd500&area=true&hide_border=true&area_color=ff0000" width="98%"/>
-
-<!-- Animated Gamer -->
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
-
-<!-- Epic Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-<!-- Animated Sparkles -->
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-
-<!-- Achievements -->
-<h2>
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35"/>
-🏆 ACHIEVEMENTS UNLOCKED 🏆
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35"/>
-</h2>
-
-<img src="https://github-profile-trophy.vercel.app/?username=azmathashaan&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
-
-<!-- Animated Medal -->
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-
-<!-- Epic Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-<!-- Animated Planet -->
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="300">
-
-<!-- Social Links Gaming Style -->
-<h2>
-<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="35"/>
-🌐 CONNECT WITH ME 🌐
-<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="35"/>
-</h2>
-
-<a href="https://twitter.com/azmathashaan">
-  <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=black" height="35"/>
-</a>
-<a href="https://instagram.com/azmathashaan">
-  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black" height="35"/>
-</a>
-<a href="https://twitch.tv/azmathashaan">
-  <img src="https://img.shields.io/badge/TWITCH-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=black" height="35"/>
-</a>
-<a href="https://youtube.com/@azmathashaan">
-  <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=black" height="35"/>
-</a>
-<a href="https://discord.gg/azmathashaan">
-  <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=black" height="35"/>
-</a>
-<a href="https://steamcommunity.com/id/azmathashaan">
-  <img src="https://img.shields.io/badge/STEAM-000000?style=for-the-badge&logo=steam&logoColor=white&labelColor=1b2838" height="35"/>
-</a>
-
-<!-- Animated Rocket -->
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
-
-<!-- Support Section -->
-<h2>
-<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="35"/>
-💰 SUPPORT MY GRIND 💰
-<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="35"/>
-</h2>
-
-<a href="https://www.buymeacoffee.com/azmathashaan">
-  <img src="https://img.shields.io/badge/BUY%20ME%20A%20COFFEE-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=000000" height="40"/>
-</a>
-<a href="https://ko-fi.com/azmathashaan">
-  <img src="https://img.shields.io/badge/KO--FI-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=000000" height="40"/>
-</a>
-<a href="https://paypal.me/azmathashaan">
-  <img src="https://img.shields.io/badge/PAYPAL-00457C?style=for-the-badge&logo=paypal&logoColor=white&labelColor=000000" height="40"/>
-</a>
-
-<!-- Animated Money -->
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100">
-
-<!-- Epic Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-<!-- Animated Pixel Character -->
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400">
-
-<!-- Quote -->
-<h2>💀 GAMER MINDSET 💀</h2>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Winners%20never%20quit%2C%20quitters%20never%20win.%20GG%20EZ.&author=Azmat%20Hashaan&border=true" />
-
-<!-- Animated Fire -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-<!-- Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azmathashaan/azmathashaan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azmathashaan/azmathashaan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/azmathashaan/azmathashaan/output/github-contribution-grid-snake.svg">
-</picture>
-
-<!-- Animated Explosion -->
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
-
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:ff6b00,100:ffd500&height=120&section=footer"/>
-
-<!-- Final Message with Animation -->
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-
-<h3>
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25"/>
-"GAME OVER? NEVER. RESPAWN AND DOMINATE!"
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25"/>
-</h3>
-
-<!-- Animated Ending -->
-<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="400">
-
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Azmat Hashaan - Gaming Profile</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Orbitron:wght@400;700;900&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            background: #000;
+            color: #fff;
+            font-family: 'Orbitron', sans-serif;
+            overflow-x: hidden;
+            position: relative;
+        }
+        
+        /* Animated Background Particles */
+        .particles {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 0;
+            pointer-events: none;
+            opacity: 0.15;
+        }
+        
+        .particle {
+            position: absolute;
+            width: 4px;
+            height: 4px;
+            background: linear-gradient(45deg, #ff0000, #ff6b00, #ffd500);
+            border-radius: 50%;
+            animation: float 15s infinite;
+        }
+        
+        @keyframes float {
+            0%, 100% { transform: translateY(0) translateX(0) rotate(0deg); opacity: 0; }
+            10% { opacity: 1; }
+            90% { opacity: 1; }
+            100% { transform: translateY(-1000px) translateX(500px) rotate(360deg); opacity: 0; }
+        }
+        
+        /* Animated Border Frame */
+        .border-frame {
+            position: fixed;
+            pointer-events: none;
+            z-index: 9999;
+        }
+        
+        .border-top, .border-bottom {
+            width: 100%;
+            height: 8px;
+            background: linear-gradient(90deg, #ff0000, #ff6b00, #ffd500, #ff6b00, #ff0000);
+            background-size: 200% 100%;
+            animation: borderGlow 3s linear infinite;
+            box-shadow: 0 0 20px #ff0000;
+        }
+        
+        .border-top { top: 0; left: 0; }
+        .border-bottom { bottom: 0; left: 0; }
+        
+        .border-left, .border-right {
+            width: 8px;
+            height: 100%;
+            background: linear-gradient(180deg, #ff0000, #ff6b00, #ffd500, #ff6b00, #ff0000);
+            background-size: 100% 200%;
+            animation: borderGlow 3s linear infinite;
+            box-shadow: 0 0 20px #ff0000;
+        }
+        
+        .border-left { top: 0; left: 0; }
+        .border-right { top: 0; right: 0; }
+        
+        @keyframes borderGlow {
+            0% { background-position: 0% 0%; }
+            100% { background-position: 200% 200%; }
+        }
+        
+        /* Corner Decorations */
+        .corner {
+            position: fixed;
+            width: 60px;
+            height: 60px;
+            border: 4px solid #ff0000;
+            z-index: 9998;
+            pointer-events: none;
+            animation: cornerPulse 2s ease-in-out infinite;
+        }
+        
+        .corner-tl { top: 20px; left: 20px; border-right: none; border-bottom: none; }
+        .corner-tr { top: 20px; right: 20px; border-left: none; border-bottom: none; }
+        .corner-bl { bottom: 20px; left: 20px; border-right: none; border-top: none; }
+        .corner-br { bottom: 20px; right: 20px; border-left: none; border-top: none; }
+        
+        @keyframes cornerPulse {
+            0%, 100% { box-shadow: 0 0 10px #ff0000; }
+            50% { box-shadow: 0 0 30px #ff0000, 0 0 50px #ff6b00; }
+        }
+        
+        /* Main Container */
+        .container {
+            position: relative;
+            z-index: 1;
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 60px 40px;
+        }
+        
+        /* Header Section */
+        .header {
+            text-align: center;
+            margin-bottom: 80px;
+            position: relative;
+        }
+        
+        .glitch-wrapper {
+            position: relative;
+            display: inline-block;
+        }
+        
+        .glitch {
+            font-family: 'Press Start 2P', cursive;
+            font-size: 4rem;
+            font-weight: 900;
+            color: #fff;
+            text-shadow: 0 0 10px #ff0000, 0 0 20px #ff6b00, 0 0 30px #ffd500;
+            animation: glitch 1s infinite;
+            letter-spacing: 8px;
+            margin-bottom: 20px;
+        }
+        
+        @keyframes glitch {
+            0% { text-shadow: 0 0 10px #ff0000, 0 0 20px #ff6b00; }
+            25% { text-shadow: -2px 0 10px #ff0000, 2px 2px 20px #ff6b00; }
+            50% { text-shadow: 2px 0 10px #ff0000, -2px -2px 20px #ffd500; }
+            75% { text-shadow: -2px 0 10px #ffd500, 2px 2px 20px #ff0000; }
+            100% { text-shadow: 0 0 10px #ff0000, 0 0 20px #ff6b00; }
+        }
+        
+        .subtitle {
+            font-size: 1.5rem;
+            color: #ffd500;
+            text-transform: uppercase;
+            letter-spacing: 4px;
+            margin-top: 20px;
+            animation: fadeInOut 3s ease-in-out infinite;
+        }
+        
+        @keyframes fadeInOut {
+            0%, 100% { opacity: 0.6; }
+            50% { opacity: 1; }
+        }
+        
+        .fitgirl-badge {
+            display: inline-block;
+            background: linear-gradient(135deg, #ff0066, #cc0052);
+            color: #fff;
+            padding: 15px 40px;
+            border-radius: 50px;
+            font-size: 1.2rem;
+            font-weight: 900;
+            margin-top: 30px;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            box-shadow: 0 0 30px rgba(255, 0, 102, 0.8), inset 0 0 20px rgba(255, 255, 255, 0.2);
+            animation: pulse 2s ease-in-out infinite;
+            border: 3px solid #fff;
+        }
+        
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); }
+            50% { transform: scale(1.05); box-shadow: 0 0 50px rgba(255, 0, 102, 1); }
+        }
+        
+        .stats-bar {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            margin-top: 40px;
+            flex-wrap: wrap;
+        }
+        
+        .stat-item {
+            background: rgba(255, 0, 0, 0.1);
+            border: 2px solid #ff0000;
+            padding: 15px 30px;
+            border-radius: 10px;
+            font-weight: 700;
+            text-transform: uppercase;
+            font-size: 0.9rem;
+            letter-spacing: 2px;
+            transition: all 0.3s ease;
+            box-shadow: 0 0 20px rgba(255, 0, 0, 0.3);
+        }
+        
+        .stat-item:hover {
+            background: rgba(255, 0, 0, 0.3);
+            transform: translateY(-5px);
+            box-shadow: 0 5px 30px rgba(255, 0, 0, 0.6);
+        }
+        
+        /* About Section */
+        .about {
+            text-align: center;
+            margin: 80px 0;
+            padding: 40px;
+            background: rgba(255, 255, 255, 0.03);
+            border-radius: 20px;
+            border: 2px solid rgba(255, 107, 0, 0.3);
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .about::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: linear-gradient(45deg, transparent, rgba(255, 0, 0, 0.1), transparent);
+            animation: shine 3s linear infinite;
+        }
+        
+        @keyframes shine {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        .about h2 {
+            font-size: 2.5rem;
+            margin-bottom: 30px;
+            position: relative;
+            z-index: 1;
+            color: #ffd500;
+            text-transform: uppercase;
+        }
+        
+        .about-text {
+            font-size: 1.2rem;
+            line-height: 2;
+            max-width: 900px;
+            margin: 0 auto;
+            position: relative;
+            z-index: 1;
+            text-align: left;
+        }
+        
+        .about-text p {
+            margin: 15px 0;
+            color: #ccc;
+        }
+        
+        .highlight {
+            color: #ff6b00;
+            font-weight: 700;
+        }
+        
+        /* Game Library */
+        .library {
+            margin: 100px 0;
+        }
+        
+        .library h2 {
+            text-align: center;
+            font-size: 3rem;
+            margin-bottom: 60px;
+            color: #ffd500;
+            text-transform: uppercase;
+            text-shadow: 0 0 20px #ffd500;
+        }
+        
+        .games-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 40px;
+            padding: 20px;
+        }
+        
+        .game-card {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 20px;
+            overflow: hidden;
+            transition: all 0.4s ease;
+            border: 3px solid transparent;
+            position: relative;
+            cursor: pointer;
+        }
+        
+        .game-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            border-radius: 20px;
+            padding: 3px;
+            background: linear-gradient(45deg, #ff0000, #ff6b00, #ffd500);
+            -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+            -webkit-mask-composite: xor;
+            mask-composite: exclude;
+            opacity: 0;
+            transition: opacity 0.4s ease;
+        }
+        
+        .game-card:hover::before {
+            opacity: 1;
+        }
+        
+        .game-card:hover {
+            transform: translateY(-15px) scale(1.05);
+            box-shadow: 0 20px 60px rgba(255, 107, 0, 0.6);
+        }
+        
+        .game-poster {
+            width: 100%;
+            height: 350px;
+            object-fit: cover;
+            display: block;
+        }
+        
+        .game-info {
+            padding: 20px;
+            text-align: center;
+        }
+        
+        .game-title {
+            font-size: 1.3rem;
+            font-weight: 900;
+            margin-bottom: 15px;
+            color: #fff;
+            text-transform: uppercase;
+        }
+        
+        .progress-bar {
+            width: 100%;
+            height: 8px;
+            background: rgba(255, 255, 255, 0.2);
+            border-radius: 10px;
+            overflow: hidden;
+            margin: 15px 0;
+        }
+        
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #ff0000, #ff6b00, #ffd500);
+            border-radius: 10px;
+            transition: width 1s ease;
+            box-shadow: 0 0 10px #ffd500;
+        }
+        
+        .game-stats {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 15px;
+            font-size: 0.9rem;
+        }
+        
+        .hours {
+            color: #ff6b00;
+            font-weight: 700;
+        }
+        
+        .rating {
+            color: #ffd500;
+        }
+        
+        /* Social Links */
+        .social-section {
+            text-align: center;
+            margin: 100px 0;
+            padding: 60px 20px;
+            background: rgba(255, 0, 0, 0.05);
+            border-radius: 30px;
+        }
+        
+        .social-section h2 {
+            font-size: 2.5rem;
+            margin-bottom: 40px;
+            color: #ffd500;
+        }
+        
+        .social-links {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            flex-wrap: wrap;
+        }
+        
+        .social-btn {
+            display: inline-block;
+            padding: 18px 40px;
+            background: linear-gradient(135deg, #ff0000, #ff6b00);
+            color: #fff;
+            text-decoration: none;
+            border-radius: 50px;
+            font-weight: 900;
+            font-size: 1.1rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            transition: all 0.3s ease;
+            border: 3px solid #fff;
+            box-shadow: 0 5px 20px rgba(255, 0, 0, 0.4);
+        }
+        
+        .social-btn:hover {
+            transform: translateY(-5px) scale(1.1);
+            box-shadow: 0 10px 40px rgba(255, 107, 0, 0.8);
+            background: linear-gradient(135deg, #ff6b00, #ffd500);
+        }
+        
+        /* Footer */
+        .footer {
+            text-align: center;
+            padding: 60px 20px;
+            font-size: 1.5rem;
+            color: #ffd500;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            font-weight: 700;
+            text-shadow: 0 0 20px #ffd500;
+        }
+        
+        /* Floating Icons */
+        .floating-icon {
+            position: fixed;
+            font-size: 3rem;
+            opacity: 0.1;
+            pointer-events: none;
+            z-index: 0;
+            animation: floatIcon 20s infinite;
+        }
+        
+        @keyframes floatIcon {
+            0%, 100% { transform: translateY(0) rotate(0deg); }
+            50% { transform: translateY(-50px) rotate(180deg); }
+        }
+        
+        .icon-1 { top: 10%; left: 5%; animation-delay: 0s; }
+        .icon-2 { top: 30%; right: 8%; animation-delay: 2s; }
+        .icon-3 { bottom: 20%; left: 10%; animation-delay: 4s; }
+        .icon-4 { bottom: 40%; right: 5%; animation-delay: 6s; }
+        .icon-5 { top: 60%; left: 15%; animation-delay: 8s; }
+        .icon-6 { top: 80%; right: 12%; animation-delay: 10s; }
+        
+        @media (max-width: 768px) {
+            .glitch { font-size: 2rem; }
+            .subtitle { font-size: 1rem; }
+            .games-grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <!-- Animated Border Frame -->
+    <div class="border-frame border-top"></div>
+    <div class="border-frame border-bottom"></div>
+    <div class="border-frame border-left"></div>
+    <div class="border-frame border-right"></div>
+    
+    <!-- Corner Decorations -->
+    <div class="corner corner-tl"></div>
+    <div class="corner corner-tr"></div>
+    <div class="corner corner-bl"></div>
+    <div class="corner corner-br"></div>
+    
+    <!-- Background Particles -->
+    <div class="particles" id="particles"></div>
+    
+    <!-- Floating Gaming Icons -->
+    <div class="floating-icon icon-1">🎮</div>
+    <div class="floating-icon icon-2">🎯</div>
+    <div class="floating-icon icon-3">🏆</div>
+    <div class="floating-icon icon-4">⚡</div>
+    <div class="floating-icon icon-5">🔥</div>
+    <div class="floating-icon icon-6">💀</div>
+    
+    <div class="container">
+        <!-- Header -->
+        <div class="header">
+            <div class="glitch-wrapper">
+                <h1 class="glitch">AZMAT HASHAAN</h1>
+            </div>
+            <p class="subtitle">Pro Gamer | Content Creator | Streamer</p>
+            <div class="fitgirl-badge">🎮 FitGirl Repack Enthusiast 🎮</div>
+            <div class="stats-bar">
+                <div class="stat-item">🖥️ PC Master Race</div>
+                <div class="stat-item">🟢 Online Now</div>
+                <div class="stat-item">👑 Legendary Rank</div>
+                <div class="stat-item">⏱️ 10,000+ Hours</div>
+            </div>
+        </div>
+        
+        <!-- About Section -->
+        <div class="about">
+            <h2>💀 Who Am I? 💀</h2>
+            <div class="about-text">
+                <p><span class="highlight">🎯 Professional Gamer</span> conquering every open world, racing through every track, and dominating every multiplayer lobby.</p>
+                <p><span class="highlight">🎮 FitGirl Repack Pro</span> - I know the art of maximizing storage and minimizing download times while keeping the gaming experience pristine.</p>
+                <p><span class="highlight">🏎️ Racing Enthusiast | Strategy Master | FPS Legend</span> - Whether it's drifting through Liberty City or surviving in the Wild West, I've mastered them all.</p>
+                <p><span class="highlight">🌍 Building My Gaming Empire</span> - One victory at a time, one achievement at a time, one perfectly installed FitGirl repack at a time.</p>
+                <p><span class="highlight">💀 Your Worst Nightmare</span> in multiplayer lobbies. GG EZ.</p>
+            </div>
+        </div>
+        
+        <!-- Game Library -->
+        <div class="library">
+            <h2>🎮 STEAM LIBRARY 🎮</h2>
+            <div class="games-grid">
+                <div class="game-card">
+                    <img src="https://image.api.playstation.com/vulcan/ap/rnd/202202/2816/6s08SwXVoprpGZdEGKiDbzwn.png" alt="GTA V" class="game-poster">
+                    <div class="game-info">
+                        <div class="game-title">GTA V</div>
+                        <div class="progress-bar"><div class="progress-fill" style="width: 100%"></div></div>
+                        <div class="game-stats">
+                            <span class="hours">⏱️ 1000+ Hours</span>
+                            <span class="rating">⭐⭐⭐⭐⭐</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="game-card">
+                    <img src="https://upload.wikimedia.org/wikipedia/en/b/b7/Grand_Theft_Auto_IV_cover.jpg" alt="GTA IV" class="game-poster">
+                    <div class="game-info">
+                        <div class="game-title">GTA IV</div>
+                        <div class="progress-bar"><div class="progress-fill" style="width: 100%"></div></div>
+                        <div class="game-stats">
+                            <span class="hours">⏱️ 500+ Hours</span>
+                            <span class="rating">⭐⭐⭐⭐⭐</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="game-card">
+                    <img src="https://image.api.playstation.com/vulcan/ap/rnd/202207/1210/4xJ8XB3bi888QTLZYdl7Oi0s.png" alt="Red Dead Redemption 2" class="game-poster">
+                    <div class="game-info">
+                        <div class="game-title">Red Dead Redemption 2</div>
+                        <div class="progress-bar"><div class="progress-fill" style="width: 100%"></div></div>
+                        <div class="game-stats">
+                            <span class="hours">⏱️ 800+ Hours</span>
+                            <span class="rating">⭐⭐⭐⭐⭐</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="game-card">
+                    <img src="https://image.api.playstation.com/cdn/UP0001/CUSA02369_00/GuEKbG0fhE6TKqvJ40vdvelQu5NgGLbW.png" alt="Watch Dogs" class="game-poster">
+                    <div class="game-info">
+                        <div class="game-title">Watch Dogs</div>
+                        <div class="progress-bar"><div class="progress-fill" style="width: 100%"></div></div>
+                        <div class="game-stats">
+                            <span class="hours">⏱️ 300+ Hours</span>
+                            <span class="rating">⭐⭐⭐⭐⭐</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="game-card">
+                    <img src="https://cdn1.epicgames.com/offer/4fe75c537c5b46349ac1eb175b2919c3/EGS_ForzaHorizon5PremiumEdition_PlaygroundGames_Editions_S2_1200x1600-7ab62e90f495b87ce8e0c18c0bd7fc5e" alt="Forza Horizon 5" class="game-poster">
+                    <div class="game-info">
+                        <div class="game-title">Forza Horizon 5</div>
+                        <div class="progress-bar"><div class="progress-fill" style="width: 95%"></div></div>
+                        <div class="game-stats">
+                            <span class="hours">⏱️ 600+ Hours</span>
+                            <span class="rating">⭐⭐⭐⭐⭐</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="game-card">
+                    <img src="https://gaming-cdn.com/images/products/182/616x353/far-cry-3-pc-game-uplay-cover.jpg" alt="Far Cry 3" class="game-poster">
+                    <div class="game-info">
+                        <div class="game-title">Far Cry 3</div>
+                        <div class="progress-bar"><div class="progress-fill" style="width: 100%"></div></div>
+                        <div class="game-stats">
+                            <span class="hours">⏱️ 400+ Hours</span>
+                            <span class="rating">⭐⭐⭐⭐⭐</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="game-card">
+                    <img src="https://image.api.playstation.com/cdn/UP0082/CUSA02740_00/2FEGqKjQ0pXaq89ttes5YzT6y85poGoq.png" alt="Just Cause 3" class="game-poster">
+                    <div class="game-info">
+                        <div class="game-title">Just Cause 3</div>
+                        <div class="progress-bar"><div class="progress-fill" style="width: 100%"></div></div>
+                        <div class="game-stats">
+                            <span class="hours">⏱️ 350+ Hours</span>
+                            <span class="rating">⭐⭐⭐⭐⭐</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="game-card">
+                    <img src="https://gaming-cdn.com/images/products/2865/616x353/need-for-speed-most-wanted-pc-game-origin-cover.jpg" alt="NFS Most Wanted" class="game-poster">
+                    <div class="game-info">
+                        <div class="game-title">NFS Most Wanted</div>
+                        <div class="progress-bar"><div class="progress-fill" style="width: 100%"></div></div>
+                        <div class="game-stats">
+                            <span class="hours">⏱️ 450+ Hours</span>
+                            <span class="rating">⭐⭐⭐⭐⭐</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="game-card">
+                    <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/945360/library_600x900.jpg" alt="Among Us" class="game-poster">
+                    <div class="game-info">
+                        <div class="game-title">Among Us</div>
+                        <div class="progress-bar"><div class="progress-fill" style="width: 90%"></div></div>
+                        <div class="game-stats">
+                            <span class="hours">⏱️ 200+ Hours</span>
+                            <span class="rating">⭐⭐⭐⭐</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="game-card">
+                    <img src="https://image.api.playstation.com/vulcan/ap/rnd/202208/0921/dR9KJAKDW2izPuWoKNqj8FE2.png" alt="Hogwarts Legacy" class="game-poster">
+                    <div class="game-info">
+                        <div class="game-title">Hogwarts Legacy</div>
+                        <div class="progress-bar"><div class="progress-fill" style="width: 88%"></div></div>
+                        <div class="game-stats">
+                            <span class="hours">⏱️ 250+ Hours</span>
+                            <span class="rating">⭐⭐⭐⭐⭐</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Social Section -->
+        <div class="social-section">
+            <h2>🌐 CONNECT WITH ME 🌐</h2>
+            <div class="social-links">
+                <a href="https://twitter.com/azmathashaan" class="social-btn">Twitter</a>
+                <a href="https://instagram.com/azmathashaan" class="social-btn">Instagram</a>
+                <a href="https://twitch.tv/azmathashaan" class="social-btn">Twitch</a>
+                <a href="https://youtube.com/@azmathashaan" class="social-btn">YouTube</a>
+                <a href="https://discord.gg/azmathashaan" class="social-btn">Discord</a>
+                <a href="https://steamcommunity.com/id/azmathashaan" class="social-btn">Steam</a>
+            </div>
+            <div class="social-links" style="margin-top: 30px;">
+                <a href="https://www.buymeacoffee.com/azmathashaan" class="social-btn" style="background: linear-gradient(135deg, #FFDD00, #FFA500);">☕ Buy Me Coffee</a>
+                <a href="https://ko-fi.com/azmathashaan" class="social-btn" style="background: linear-gradient(135deg, #FF5E5B, #D9534F);">💖 Ko-fi</a>
+                <a href="https://paypal.me/azmathashaan" class="social-btn" style="background: linear-gradient(135deg, #00457C, #0070BA);">💳 PayPal</a>
+            </div>
+        </div>
+        
+        <!-- Footer -->
+        <div class="footer">
+            💀 "GAME OVER? NEVER. RESPAWN AND DOMINATE!" 💀
+        </div>
+    </div>
+    
+    <script>
+        // Generate particles
+        const particlesContainer = document.getElementById('particles');
+        for (let i = 0; i < 50; i++) {
+            const particle = document.createElement('div');
+            particle.className = 'particle';
+            particle.style.left = Math.random() * 100 + '%';
+            particle.style.animationDelay = Math.random() * 15 + 's';
+            particle.style.animationDuration = (Math.random() * 10 + 10) + 's';
+            particlesContainer.appendChild(particle);
+        }
+        
+        // Animate progress bars on scroll
+        const observerOptions = {
+            threshold: 0.5
+        };
+        
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.style.width = entry.target.getAttribute('data-width') || '100%';
+                }
+            });
+        }, observerOptions);
+        
+        document.querySelectorAll('.progress-fill').forEach(fill => {
+            fill.setAttribute('data-width', fill.style.width);
+            fill.style.width = '0%';
+            observer.observe(fill);
+        });
+    </script>
+</body>
+</html>
