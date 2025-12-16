@@ -5,7 +5,7 @@
 
 <!-- Glitch Effect Title -->
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=35&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=150&lines=%F0%9F%8E%AE+ELITE+GAMER+%F0%9F%8E%AE;%F0%9F%94%A5+STEAM+LEVEL+999+%F0%9F%94%A5;%F0%9F%8F%86+ACHIEVEMENT+HUNTER+%F0%9F%8F%86" alt="Gaming Title"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=35&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=150&lines=%F0%9F%8E%AE+Fit+Girl+Repacks+Pro+%F0%9F%8E%AE;%F0%9F%94%A5+STEAM+LEVEL+-ve+%F0%9F%94%A5;%F0%9F%8F%86+Free+Style+Gamer+%F0%9F%8F%86" alt="Gaming Title"/>
 </h1>
 
 <!-- Gaming Stats Bar -->
