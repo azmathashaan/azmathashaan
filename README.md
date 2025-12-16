@@ -1,264 +1,318 @@
-# 🎮 AZMAT HASHAAN 🎮
-
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=300&section=header&text=AZMAT%20HASHAAN&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&desc=PRO%20GAMER%20|%20FITGIRL%20REPACK%20ENTHUSIAST%20|%20CONTENT%20CREATOR&descSize=20&descAlignY=55)
+<!-- Epic Gaming Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=AZMAT%20HASHAAN&fontSize=70&color=0:ff0000,50:ff6b00,100:ffd500&stroke=ffffff&strokeWidth=2&fontColor=ffffff&animation=fadeIn&desc=PRO%20GAMER%20%7C%20CONTENT%20CREATOR%20%7C%20STREAMER&descSize=20&descAlignY=65"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=%F0%9F%94%A5+FITGIRL+REPACK+PRO+%F0%9F%94%A5;%F0%9F%8E%AE+10%2C000%2B+GAMING+HOURS+%F0%9F%8E%AE;%F0%9F%8F%86+ACHIEVEMENT+HUNTER+%F0%9F%8F%86;%F0%9F%92%80+GG+EZ+-+RESPAWN+%26+DOMINATE+%F0%9F%92%80)](https://git.io/typing-svg)
+<!-- Glitch Effect Title -->
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=35&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=150&lines=%F0%9F%8E%AE+ELITE+GAMER+%F0%9F%8E%AE;%F0%9F%94%A5+STEAM+LEVEL+999+%F0%9F%94%A5;%F0%9F%8F%86+ACHIEVEMENT+HUNTER+%F0%9F%8F%86" alt="Gaming Title"/>
+</h1>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<!-- Gaming Stats Bar -->
+<img src="https://img.shields.io/badge/PLATFORM-PC%20MASTER%20RACE-red?style=for-the-badge&logo=windows&logoColor=white&labelColor=black"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE%20NOW-brightgreen?style=for-the-badge&logo=steam&logoColor=white&labelColor=black"/>
+<img src="https://img.shields.io/badge/RANK-LEGENDARY-gold?style=for-the-badge&logo=game&logoColor=white&labelColor=black"/>
+<img src="https://komarev.com/ghpvc/?username=azmathashaan&label=PROFILE+VISITS&color=ff0000&style=for-the-badge&logo=eye"/>
 
-![PC Master Race](https://img.shields.io/badge/PLATFORM-PC%20MASTER%20RACE-red?style=for-the-badge&logo=windows&logoColor=white&labelColor=black)
-![Status](https://img.shields.io/badge/STATUS-ONLINE%20NOW-brightgreen?style=for-the-badge&logo=steam&logoColor=white&labelColor=black)
-![Rank](https://img.shields.io/badge/RANK-LEGENDARY-gold?style=for-the-badge&logoColor=white&labelColor=black)
-![Profile Views](https://komarev.com/ghpvc/?username=azmathashaan&label=PROFILE+VISITS&color=ff0000&style=for-the-badge)
+<br/>
+<br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<!-- Epic Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-## 💀 WHO AM I? 💀
+<!-- About Section with Gaming Aesthetic -->
+<h2>
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
+WHO AM I?
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
+</h2>
 
-</div>
-
-```yaml
-Gamer: Professional
-Style: FitGirl Repack Enthusiast 🎮
-Specialization: [Open World Domination, Racing Master, FPS Legend]
-Total_Hours: 10000+
-Achievements: 5000+
-Status: Your Worst Nightmare in Multiplayer
-Motto: "Winners never quit, GG EZ"
+```diff
++ ?? Professional Gamer | Content Creator | Streamer
++ ?? Conquered Every Open World Game You Can Think Of
++ ??? Racing Enthusiast | Strategy Master | FPS Legend
++ ?? Building My Gaming Empire One Victory at a Time
++ ?? Your Worst Nightmare in Multiplayer Lobbies
 ```
 
-<div align="center">
+<br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<!-- Epic Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-## 🎮 STEAM LIBRARY 🎮
+<!-- Steam Library Showcase -->
+<h2>
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40"/>
+STEAM LIBRARY
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40"/>
+</h2>
 
-### 🔥 THE COLLECTION 🔥
-
-<table>
+<table align="center">
 <tr>
-<td width="33%" align="center">
-<img src="https://image.api.playstation.com/vulcan/ap/rnd/202202/2816/6s08SwXVoprpGZdEGKiDbzwn.png" width="200" height="280"/>
-
-**GRAND THEFT AUTO V**
-
-![Progress](https://img.shields.io/badge/COMPLETION-100%25-success?style=for-the-badge)
-
-⏱️ **1000+ Hours** | ⭐⭐⭐⭐⭐
-
-`FitGirl Repack Installed`
-
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/GTA%20V-FF6B00?style=for-the-badge&logo=rockstargames&logoColor=white&labelColor=black"/>
+<br/>
+<img src="https://progress-bar.xyz/100/?scale=100&title=Completed&width=150&color=ff6b00&suffix=%"/>
+<br/>
+<sub><b>1000+ Hours</b></sub>
+<br/>
+<sub>?????</sub>
 </td>
-<td width="33%" align="center">
-<img src="https://upload.wikimedia.org/wikipedia/en/b/b7/Grand_Theft_Auto_IV_cover.jpg" width="200" height="280"/>
-
-**GRAND THEFT AUTO IV**
-
-![Progress](https://img.shields.io/badge/COMPLETION-100%25-success?style=for-the-badge)
-
-⏱️ **500+ Hours** | ⭐⭐⭐⭐⭐
-
-`Classic Masterpiece`
-
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/GTA%20IV-000000?style=for-the-badge&logo=rockstargames&logoColor=white&labelColor=red"/>
+<br/>
+<img src="https://progress-bar.xyz/100/?scale=100&title=Completed&width=150&color=000000&suffix=%"/>
+<br/>
+<sub><b>500+ Hours</b></sub>
+<br/>
+<sub>?????</sub>
 </td>
-<td width="33%" align="center">
-<img src="https://image.api.playstation.com/vulcan/ap/rnd/202207/1210/4xJ8XB3bi888QTLZYdl7Oi0s.png" width="200" height="280"/>
-
-**RED DEAD REDEMPTION 2**
-
-![Progress](https://img.shields.io/badge/COMPLETION-100%25-success?style=for-the-badge)
-
-⏱️ **800+ Hours** | ⭐⭐⭐⭐⭐
-
-`Wild West Conquered`
-
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/RED%20DEAD%202-DC143C?style=for-the-badge&logo=rockstargames&logoColor=white&labelColor=black"/>
+<br/>
+<img src="https://progress-bar.xyz/100/?scale=100&title=Completed&width=150&color=dc143c&suffix=%"/>
+<br/>
+<sub><b>800+ Hours</b></sub>
+<br/>
+<sub>?????</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/WATCH%20DOGS-00D4FF?style=for-the-badge&logo=ubisoft&logoColor=white&labelColor=black"/>
+<br/>
+<img src="https://progress-bar.xyz/100/?scale=100&title=Completed&width=150&color=00d4ff&suffix=%"/>
+<br/>
+<sub><b>300+ Hours</b></sub>
+<br/>
+<sub>?????</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/FORZA%20HORIZON-FFD700?style=for-the-badge&logo=xbox&logoColor=white&labelColor=black"/>
+<br/>
+<img src="https://progress-bar.xyz/95/?scale=100&title=Progress&width=150&color=ffd700&suffix=%"/>
+<br/>
+<sub><b>600+ Hours</b></sub>
+<br/>
+<sub>?????</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/FAR%20CRY%203-FF0000?style=for-the-badge&logo=ubisoft&logoColor=white&labelColor=black"/>
+<br/>
+<img src="https://progress-bar.xyz/100/?scale=100&title=Completed&width=150&color=ff0000&suffix=%"/>
+<br/>
+<sub><b>400+ Hours</b></sub>
+<br/>
+<sub>?????</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/JUST%20CAUSE%203-FF4500?style=for-the-badge&logo=square-enix&logoColor=white&labelColor=black"/>
+<br/>
+<img src="https://progress-bar.xyz/100/?scale=100&title=Completed&width=150&color=ff4500&suffix=%"/>
+<br/>
+<sub><b>350+ Hours</b></sub>
+<br/>
+<sub>?????</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/NFS%20MOST%20WANTED-FFA500?style=for-the-badge&logo=ea&logoColor=white&labelColor=black"/>
+<br/>
+<img src="https://progress-bar.xyz/100/?scale=100&title=Completed&width=150&color=ffa500&suffix=%"/>
+<br/>
+<sub><b>450+ Hours</b></sub>
+<br/>
+<sub>?????</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/AMONG%20US-00FF00?style=for-the-badge&logo=steam&logoColor=white&labelColor=black"/>
+<br/>
+<img src="https://progress-bar.xyz/90/?scale=100&title=Progress&width=150&color=00ff00&suffix=%"/>
+<br/>
+<sub><b>200+ Hours</b></sub>
+<br/>
+<sub>????</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/MORE%20GAMES-1E90FF?style=for-the-badge&logo=steam&logoColor=white&labelColor=black"/>
+<br/>
+<img src="https://progress-bar.xyz/85/?scale=100&title=Library&width=150&color=1e90ff&suffix=%"/>
+<br/>
+<sub><b>150+ Games</b></sub>
+<br/>
+<sub>?????</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/ACHIEVEMENTS-FFD700?style=for-the-badge&logo=trophy&logoColor=white&labelColor=black"/>
+<br/>
+<img src="https://progress-bar.xyz/92/?scale=100&title=Unlocked&width=150&color=ffd700&suffix=%"/>
+<br/>
+<sub><b>5000+ Unlocked</b></sub>
+<br/>
+<sub>?????</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/PLAYTIME-FF1493?style=for-the-badge&logo=clock&logoColor=white&labelColor=black"/>
+<br/>
+<img src="https://progress-bar.xyz/99/?scale=100&title=Dedication&width=150&color=ff1493&suffix=%"/>
+<br/>
+<sub><b>10,000+ Hours</b></sub>
+<br/>
+<sub>?????</sub>
 </td>
 </tr>
 </table>
 
-<table>
+<br/>
+
+<!-- Epic Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+<!-- Gaming Setup -->
+<h2>
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="35"/>
+BATTLE STATION
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="35"/>
+</h2>
+
+<table align="center">
 <tr>
-<td width="33%" align="center">
-<img src="https://image.api.playstation.com/cdn/UP0001/CUSA02369_00/GuEKbG0fhE6TKqvJ40vdvelQu5NgGLbW.png" width="200" height="280"/>
+<td>
 
-**WATCH DOGS**
-
-![Progress](https://img.shields.io/badge/COMPLETION-100%25-success?style=for-the-badge)
-
-⏱️ **300+ Hours** | ⭐⭐⭐⭐⭐
-
-`Hacking Perfected`
-
-</td>
-<td width="33%" align="center">
-<img src="https://cdn1.epicgames.com/offer/4fe75c537c5b46349ac1eb175b2919c3/EGS_ForzaHorizon5PremiumEdition_PlaygroundGames_Editions_S2_1200x1600-7ab62e90f495b87ce8e0c18c0bd7fc5e" width="200" height="280"/>
-
-**FORZA HORIZON 5**
-
-![Progress](https://img.shields.io/badge/COMPLETION-95%25-yellow?style=for-the-badge)
-
-⏱️ **600+ Hours** | ⭐⭐⭐⭐⭐
-
-`Racing Champion`
-
-</td>
-<td width="33%" align="center">
-<img src="https://gaming-cdn.com/images/products/182/616x353/far-cry-3-pc-game-uplay-cover.jpg" width="200" height="280"/>
-
-**FAR CRY 3**
-
-![Progress](https://img.shields.io/badge/COMPLETION-100%25-success?style=for-the-badge)
-
-⏱️ **400+ Hours** | ⭐⭐⭐⭐⭐
-
-`Insanity Achieved`
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="33%" align="center">
-<img src="https://image.api.playstation.com/cdn/UP0082/CUSA02740_00/2FEGqKjQ0pXaq89ttes5YzT6y85poGoq.png" width="200" height="280"/>
-
-**JUST CAUSE 3**
-
-![Progress](https://img.shields.io/badge/COMPLETION-100%25-success?style=for-the-badge)
-
-⏱️ **350+ Hours** | ⭐⭐⭐⭐⭐
-
-`Chaos Creator`
-
-</td>
-<td width="33%" align="center">
-<img src="https://gaming-cdn.com/images/products/2865/616x353/need-for-speed-most-wanted-pc-game-origin-cover.jpg" width="200" height="280"/>
-
-**NFS MOST WANTED**
-
-![Progress](https://img.shields.io/badge/COMPLETION-100%25-success?style=for-the-badge)
-
-⏱️ **450+ Hours** | ⭐⭐⭐⭐⭐
-
-`Most Wanted #1`
-
-</td>
-<td width="33%" align="center">
-<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/945360/library_600x900.jpg" width="200" height="280"/>
-
-**AMONG US**
-
-![Progress](https://img.shields.io/badge/COMPLETION-90%25-yellow?style=for-the-badge)
-
-⏱️ **200+ Hours** | ⭐⭐⭐⭐
-
-`Sus Master`
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%" align="center">
-<img src="https://image.api.playstation.com/vulcan/ap/rnd/202208/0921/dR9KJAKDW2izPuWoKNqj8FE2.png" width="200" height="280"/>
-
-**HOGWARTS LEGACY**
-
-![Progress](https://img.shields.io/badge/COMPLETION-88%25-yellow?style=for-the-badge)
-
-⏱️ **250+ Hours** | ⭐⭐⭐⭐⭐
-
-`Magic Mastered 🪄`
-
-</td>
-<td width="50%" align="center">
-
-### 📊 LIBRARY STATS
-
-```javascript
-Total Games: 150+
-Completed: 120+
-Achievements: 5000+
-Total Hours: 10,000+
-FitGirl Repacks: ∞
-Storage Saved: 2TB+
-```
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## ⚔️ BATTLE STATION ⚔️
-
-```javascript
+```js
 const BattleStation = {
-    GPU: "NVIDIA RTX 4090 🔥",
-    CPU: "Intel Core i9-13900K ⚡",
-    RAM: "64GB DDR5 6000MHz 💪",
-    Storage: "4TB NVMe SSD Gen4 💾",
-    Monitor: "4K 165Hz 1ms Gaming Display 🖥️",
-    Mouse: "Logitech G Pro X Superlight 🖱️",
-    Keyboard: "Razer BlackWidow V4 Pro ⌨️",
-    Headset: "HyperX Cloud Alpha Wireless 🎧",
-    Internet: "1Gbps Fiber 🌐",
-    Status: "READY TO DOMINATE 💀"
+    GPU: "RTX 4090 ??",
+    CPU: "Intel i9-13900K ?",
+    RAM: "64GB DDR5 ??",
+    Storage: "4TB NVMe SSD ??",
+    Monitor: "4K 165Hz Gaming ???",
+    Mouse: "Logitech G Pro X ???",
+    Keyboard: "Razer BlackWidow ??",
+    Headset: "HyperX Cloud Alpha ??",
+    Status: "READY TO DOMINATE ??"
 };
-
-// Output: Gaming Perfection Achieved ✅
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</td>
+<td>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400"/>
+</td>
+</tr>
+</table>
 
-## 📊 PLAYER STATS 📊
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=azmathashaan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff6b00&text_color=ffffff&border_radius=10" width="49%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=azmathashaan&theme=radical&hide_border=true&background=0d1117&stroke=ff0000&ring=ff6b00&fire=ffd500&currStreakLabel=ff0000&border_radius=10" width="49%"/>
+<!-- Epic Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=azmathashaan&custom_title=GAMING%20ACTIVITY%20GRAPH&bg_color=0d1117&color=ff0000&line=ff6b00&point=ffd500&area=true&hide_border=true" width="100%"/>
+<!-- GitHub Stats Gaming Theme -->
+<h2>
+<img src="https://user-images.githubusercontent.com/74038190/216122003-73ed7730-e3d1-499c-9eba-da8f5df94083.png" width="35"/>
+PLAYER STATS
+<img src="https://user-images.githubusercontent.com/74038190/216122003-73ed7730-e3d1-499c-9eba-da8f5df94083.png" width="35"/>
+</h2>
 
-<img src="https://github-profile-trophy.vercel.app/?username=azmathashaan&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=azmathashaan&show_icons=true&theme=synthwave&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff6b00&text_color=ffffff&border_radius=15&custom_title=AZMAT%20HASHAAN%20-%20GAMER%20STATS" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=azmathashaan&theme=highcontrast&hide_border=true&background=000000&stroke=ff0000&ring=ff6b00&fire=ffd500&currStreakLabel=ff0000&border_radius=15" width="48%" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=azmathashaan&custom_title=GAMING%20ACTIVITY%20GRAPH&bg_color=000000&color=ff0000&line=ff6b00&point=ffd500&area=true&hide_border=true&area_color=ff0000" width="98%"/>
 
-## 🌐 CONNECT WITH ME 🌐
+<br/>
 
-[![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/azmathashaan)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/azmathashaan)
-[![Twitch](https://img.shields.io/badge/TWITCH-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/azmathashaan)
-[![YouTube](https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@azmathashaan)
-[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/azmathashaan)
-[![Steam](https://img.shields.io/badge/STEAM-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/azmathashaan)
+<!-- Epic Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<!-- Achievements -->
+<h2>
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35"/>
+ACHIEVEMENTS UNLOCKED
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35"/>
+</h2>
 
-## 💰 SUPPORT MY GRIND 💰
+<img src="https://github-profile-trophy.vercel.app/?username=azmathashaan&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 
-[![Buy Me A Coffee](https://img.shields.io/badge/BUY%20ME%20A%20COFFEE-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/azmathashaan)
-[![Ko-fi](https://img.shields.io/badge/KO--FI-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/azmathashaan)
-[![PayPal](https://img.shields.io/badge/PAYPAL-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/azmathashaan)
+<br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<!-- Epic Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-## 💀 GAMER MINDSET 💀
+<!-- Social Links Gaming Style -->
+<h2>
+<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="35"/>
+CONNECT WITH ME
+<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="35"/>
+</h2>
 
-> **"Winners never quit, quitters never win. GG EZ."**
-> 
-> **"GAME OVER? NEVER. RESPAWN AND DOMINATE!"**
+<a href="https://twitter.com/azmathashaan">
+  <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=black" height="35"/>
+</a>
+<a href="https://instagram.com/azmathashaan">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black" height="35"/>
+</a>
+<a href="https://twitch.tv/azmathashaan">
+  <img src="https://img.shields.io/badge/TWITCH-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=black" height="35"/>
+</a>
+<a href="https://youtube.com/@azmathashaan">
+  <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=black" height="35"/>
+</a>
+<a href="https://discord.gg/azmathashaan">
+  <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=black" height="35"/>
+</a>
+<a href="https://steamcommunity.com/id/azmathashaan">
+  <img src="https://img.shields.io/badge/STEAM-000000?style=for-the-badge&logo=steam&logoColor=white&labelColor=1b2838" height="35"/>
+</a>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br/>
+<br/>
 
+<!-- Support Section -->
+<h2>
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="35"/>
+SUPPORT MY GRIND
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="35"/>
+</h2>
+
+<a href="https://www.buymeacoffee.com/azmathashaan">
+  <img src="https://img.shields.io/badge/BUY%20ME%20A%20COFFEE-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=000000" height="40"/>
+</a>
+<a href="https://ko-fi.com/azmathashaan">
+  <img src="https://img.shields.io/badge/KO--FI-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=000000" height="40"/>
+</a>
+<a href="https://paypal.me/azmathashaan">
+  <img src="https://img.shields.io/badge/PAYPAL-00457C?style=for-the-badge&logo=paypal&logoColor=white&labelColor=000000" height="40"/>
+</a>
+
+<br/>
+<br/>
+
+<!-- Epic Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+<!-- Quote -->
+<h2>?? GAMER MINDSET ??</h2>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Winners%20never%20quit%2C%20quitters%20never%20win.%20GG%20EZ.&author=Azmat%20Hashaan&border=true" />
+
+<br/>
+
+<!-- Contribution Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azmathashaan/azmathashaan/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azmathashaan/azmathashaan/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/azmathashaan/azmathashaan/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=150&section=footer)
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=%E2%9C%A8+FITGIRL+REPACK+ENTHUSIAST+%E2%9C%A8;%F0%9F%8E%AE+BUILDING+GAMING+EMPIRE+%F0%9F%8E%AE;%F0%9F%92%80+YOUR+WORST+NIGHTMARE+%F0%9F%92%80" />
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:ff6b00,100:ffd500&height=120&section=footer"/>
+
+<!-- Final Message -->
+<h3>
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25"/>
+"GAME OVER? NEVER. RESPAWN AND DOMINATE!"
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25"/>
+</h3>
 
 </div>
