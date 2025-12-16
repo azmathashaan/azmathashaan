@@ -5,7 +5,7 @@
 
 <!-- Glitch Effect Title -->
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=35&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=150&lines=%F0%9F%8E%AE+Fit+Girl+Repacks+Pro+%F0%9F%8E%AE;%F0%9F%94%A5+STEAM+LEVEL+-ve+%F0%9F%94%A5;%F0%9F%8F%86+Free+Style+Gamer+%F0%9F%8F%86" alt="Gaming Title"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=35&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=150&lines=%F0%9F%8E%AE+Weekend+Gamer+%F0%9F%8E%AE;%F0%9F%94%A5+STEAM+LEVEL+-10+%F0%9F%94%A5;%F0%9F%8F%86+Repacks+Player+%F0%9F%8F%86" alt="Gaming Title"/>
 </h1>
 
 <!-- Gaming Stats Bar -->
@@ -28,10 +28,10 @@ WHO AM I?
 </h2>
 
 ```diff
-+ ?? Professional Gamer | Content Creator | Streamer
-+ ?? Conquered Every Open World Game You Can Think Of
-+ ??? Racing Enthusiast | Strategy Master | FPS Legend
-+ ?? Building My Gaming Empire One Victory at a Time
++ ?? Casusal Gamer | Content Creator | Streamer
++ ?? Open World Games are meant to be cracked
++ ??? Error 404 
++ ?? Information Unavailable
 + ?? Your Worst Nightmare in Multiplayer Lobbies
 ```
 
@@ -182,15 +182,7 @@ BATTLE STATION
 
 ```js
 const BattleStation = {
-    GPU: "RTX 4090 ??",
-    CPU: "Intel i9-13900K ?",
-    RAM: "64GB DDR5 ??",
-    Storage: "4TB NVMe SSD ??",
-    Monitor: "4K 165Hz Gaming ???",
-    Mouse: "Logitech G Pro X ???",
-    Keyboard: "Razer BlackWidow ??",
-    Headset: "HyperX Cloud Alpha ??",
-    Status: "READY TO DOMINATE ??"
+    Steam | Epic Games | Cracks ",
 };
 ```
 
@@ -215,8 +207,6 @@ PLAYER STATS
 
 <img src="https://github-readme-stats.vercel.app/api?username=azmathashaan&show_icons=true&theme=synthwave&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff6b00&text_color=ffffff&border_radius=15&custom_title=AZMAT%20HASHAAN%20-%20GAMER%20STATS" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=azmathashaan&theme=highcontrast&hide_border=true&background=000000&stroke=ff0000&ring=ff6b00&fire=ffd500&currStreakLabel=ff0000&border_radius=15" width="48%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=azmathashaan&custom_title=GAMING%20ACTIVITY%20GRAPH&bg_color=000000&color=ff0000&line=ff6b00&point=ffd500&area=true&hide_border=true&area_color=ff0000" width="98%"/>
 
 <br/>
 
