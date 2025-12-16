@@ -1,133 +1,83 @@
-<div align="center">
+# Hi, I'm Azmat Hashaan! 👋
 
-![Header](https://capsule-render.vercel.app/api?type=soft&color=FFE8E0&height=250&section=header&text=Azmat%20Hashaan&fontSize=70&fontColor=8D5D4F&fontAlignY=45&desc=Living%20in%20harmony%20with%20the%20seasons&descSize=18&descAlignY=65&descAlign=50)
+Welcome to my GitHub profile! I am a passionate software developer with a love for [your programming languages, tech stacks, etc.]. Here you'll find a collection of my work, open-source contributions, and projects I’m working on.
 
-<br>
+### 🛠️ Technologies & Tools
 
-![Falling Leaves](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif)
+- **Languages:** Python, TypeScript, Java, HTML/CSS
+- **Frameworks & Libraries:** React, Node.js, Django, Flask
+- **Tools:** Git, Docker, Kubernetes, VSCode, Postman
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Cloud:** AWS, Azure, Google Cloud
 
-<br>
+### 📈 GitHub Stats
 
----
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
-<br><br>
+### 🔥 GitHub Streak
 
-## 🌸 About Me
-
-<br>
-
-*I find beauty in the gentle transitions of life,*  
-*much like the changing seasons.*
-
-*Like cherry blossoms that bloom and fall,*  
-*I embrace each moment with grace and gratitude.*
-
-*My journey is about discovering peace in simplicity*  
-*and wonder in the everyday.*
-
-<br><br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=azmathashaan)
 
 ---
 
-<br><br>
+### 📅 Current Focus
 
-## ✨ What Brings Me Joy
+I'm currently working on:
 
-<br>
-
-<table align="center">
-<tr>
-<td align="center" width="150">
-<br>
-🌸
-<br><br>
-Nature &<br>Tranquility
-<br><br>
-</td>
-<td align="center" width="150">
-<br>
-🍵
-<br><br>
-Quiet<br>Moments
-<br><br>
-</td>
-<td align="center" width="150">
-<br>
-📖
-<br><br>
-Stories &<br>Wisdom
-<br><br>
-</td>
-</tr>
-<tr>
-<td align="center" width="150">
-<br>
-🎨
-<br><br>
-Art &<br>Expression
-<br><br>
-</td>
-<td align="center" width="150">
-<br>
-🌅
-<br><br>
-Golden<br>Hours
-<br><br>
-</td>
-<td align="center" width="150">
-<br>
-🍂
-<br><br>
-Seasonal<br>Changes
-<br><br>
-</td>
-</tr>
-</table>
-
-<br><br>
+- **Project 1:** License Manager
+- **Project 2:** Excel VBA Cracker
+- **Contributions:** Open-source contributions to [repository or organization]
 
 ---
 
-<br><br>
+### 🔗 Connect with me
 
-## 💭
-
-<br>
-
-> *"Just as cherry blossoms bloom beautifully and fall gracefully,*  
-> *we too must learn to embrace both beginnings and endings*  
-> *with equal serenity."*
-
-<br><br>
+- **LinkedIn:** Azmat Hashaan(https://linkedin.com/in/azmathashaan)
+- **Twitter:** Azmat Hashaan(https://x.com/azmathashaan)
+- **Website/Blog:** azmathashaan.blogspot.com
 
 ---
 
-<br><br>
+### 💬 Let’s Chat!
 
-## 🌸 Let's Connect
+Feel free to reach out to me for collaboration, advice, or just to chat about tech! You can contact me at:
 
-<br>
-
-[![Twitter](https://img.shields.io/badge/-Twitter-FFB3D9?style=for-the-badge&logo=twitter&logoColor=8D5D4F&labelColor=FFF5F0)](https://twitter.com/azmathashaan)
-[![Instagram](https://img.shields.io/badge/-Instagram-FF8FC7?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FFF5F0)](https://instagram.com/azmathashaan)
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFCFE0?style=for-the-badge&logo=buy-me-a-coffee&logoColor=8D5D4F&labelColor=FFF5F0)](https://www.buymeacoffee.com/azmathashaan)
-
-<br><br>
+- Email: [N/A]
 
 ---
 
-<br>
+### 🎯 Pinned Repositories
 
-*Thank you for visiting my space* 🌸
+Here are some of my favorite repositories that I’m proud of:
 
-*May your path be filled with beauty and peace*
+- [Project 1](https://github.com/your-github-username/project1) – A cool project I built with [technologies].
+- [Project 2](https://github.com/your-github-username/project2) – A web app that does [something useful].
+- [Project 3](https://github.com/your-github-username/project3) – A fun side project I created.
 
-<br>
+---
 
-![Footer](https://capsule-render.vercel.app/api?type=soft&color=FFE8E0&height=150&section=footer)
+### 📚 I’m Currently Learning
 
-<br>
+I’m always looking to learn new things! Right now, I’m diving into:
 
-![Cherry Blossom](https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif)
+- [Topic 1] (e.g., Machine Learning)
+- [Topic 2] (e.g., Blockchain)
+- [Topic 3] (e.g., Cloud computing)
 
-</div>
+---
+
+### 🏆 Achievements
+
+- **Top Contributor:** [Project or organization you contribute to]
+- **Hackathon Winner:** [Name of the hackathon or competition]
+
+---
+
+### 🌱 Fun Facts
+
+- I love coding while listening to [favorite music genre or artist]
+- I’m passionate about [hobby or interest outside coding, e.g., photography, gaming, hiking, etc.]
+- My favorite programming joke: “Why do programmers prefer dark mode? Because the light attracts bugs!”
+
+---
+
