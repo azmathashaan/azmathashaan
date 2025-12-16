@@ -1,182 +1,318 @@
 <div align="center">
 
-<!-- Animated Header with Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Azmat%20Hashaan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20Digital%20Dreams%20into%20Reality&descSize=16&descAlignY=51"/>
+<!-- Epic Gaming Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=AZMAT%20HASHAAN&fontSize=70&color=0:ff0000,50:ff6b00,100:ffd500&stroke=ffffff&strokeWidth=2&fontColor=ffffff&animation=fadeIn&desc=PRO%20GAMER%20%7C%20CONTENT%20CREATOR%20%7C%20STREAMER&descSize=20&descAlignY=65"/>
 
-<!-- Typing SVG with Dynamic Text -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Creative+Problem+Solver+%F0%9F%A7%A9;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+Learning%2C+Always+Building+%F0%9F%92%A1" alt="Typing SVG" /></a>
+<!-- Glitch Effect Title -->
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=35&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=150&lines=%F0%9F%8E%AE+ELITE+GAMER+%F0%9F%8E%AE;%F0%9F%94%A5+STEAM+LEVEL+999+%F0%9F%94%A5;%F0%9F%8F%86+ACHIEVEMENT+HUNTER+%F0%9F%8F%86" alt="Gaming Title"/>
+</h1>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Gaming Stats Bar -->
+<img src="https://img.shields.io/badge/PLATFORM-PC%20MASTER%20RACE-red?style=for-the-badge&logo=windows&logoColor=white&labelColor=black"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE%20NOW-brightgreen?style=for-the-badge&logo=steam&logoColor=white&labelColor=black"/>
+<img src="https://img.shields.io/badge/RANK-LEGENDARY-gold?style=for-the-badge&logo=game&logoColor=white&labelColor=black"/>
+<img src="https://komarev.com/ghpvc/?username=azmathashaan&label=PROFILE+VISITS&color=ff0000&style=for-the-badge&logo=eye"/>
 
-<!-- Profile Views Counter with Style -->
-<img src="https://komarev.com/ghpvc/?username=azmathashaan&label=Profile%20Views&color=6C63FF&style=for-the-badge&logo=eye" alt="profile views" />
+<br/>
+<br/>
 
-<!-- About Me Section with Icons -->
+<!-- Epic Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+<!-- About Section with Gaming Aesthetic -->
 <h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px">
-  About Me
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
+WHO AM I?
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
 </h2>
 
-<p align="left" style="font-size: 16px; line-height: 1.8; max-width: 800px; margin: 0 auto;">
-  <strong>Hey there! 👋</strong> I'm a passionate developer who loves turning ideas into elegant solutions. When I'm not coding, you'll find me exploring new technologies, contributing to open source, or sharing knowledge with the community. I believe in writing clean code, building scalable systems, and creating experiences that matter.
-</p>
+```diff
++ 🎯 Professional Gamer | Content Creator | Streamer
++ 🎮 Conquered Every Open World Game You Can Think Of
++ 🏎️ Racing Enthusiast | Strategy Master | FPS Legend
++ 🌍 Building My Gaming Empire One Victory at a Time
++ 💀 Your Worst Nightmare in Multiplayer Lobbies
+```
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
 
-<!-- Tech Stack with Beautiful Icons -->
+<!-- Epic Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+<!-- Steam Library Showcase -->
 <h2>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-  Tech Arsenal
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40"/>
+STEAM LIBRARY
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40"/>
 </h2>
 
-<h3>💻 Languages</h3>
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-</p>
-
-<h3>🎨 Frontend</h3>
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-</p>
-
-<h3>⚙️ Backend</h3>
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-</p>
-
-<h3>🗄️ Databases</h3>
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-
-<h3>☁️ DevOps & Cloud</h3>
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-</p>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- GitHub Stats with Beautiful Cards -->
-<h2>
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git">
-  GitHub Analytics
-</h2>
-
-<!-- Stats Cards in Grid Layout -->
 <table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=azmathashaan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&border_radius=10" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=azmathashaan&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&border_radius=10" alt="GitHub Streak" />
-    </td>
-  </tr>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/GTA%20V-FF6B00?style=for-the-badge&logo=rockstargames&logoColor=white&labelColor=black"/>
+<br/>
+<img src="https://progress-bar.xyz/100/?scale=100&title=Completed&width=150&color=ff6b00&suffix=%"/>
+<br/>
+<sub><b>1000+ Hours</b></sub>
+<br/>
+<sub>⭐⭐⭐⭐⭐</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/GTA%20IV-000000?style=for-the-badge&logo=rockstargames&logoColor=white&labelColor=red"/>
+<br/>
+<img src="https://progress-bar.xyz/100/?scale=100&title=Completed&width=150&color=000000&suffix=%"/>
+<br/>
+<sub><b>500+ Hours</b></sub>
+<br/>
+<sub>⭐⭐⭐⭐⭐</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/RED%20DEAD%202-DC143C?style=for-the-badge&logo=rockstargames&logoColor=white&labelColor=black"/>
+<br/>
+<img src="https://progress-bar.xyz/100/?scale=100&title=Completed&width=150&color=dc143c&suffix=%"/>
+<br/>
+<sub><b>800+ Hours</b></sub>
+<br/>
+<sub>⭐⭐⭐⭐⭐</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/WATCH%20DOGS-00D4FF?style=for-the-badge&logo=ubisoft&logoColor=white&labelColor=black"/>
+<br/>
+<img src="https://progress-bar.xyz/100/?scale=100&title=Completed&width=150&color=00d4ff&suffix=%"/>
+<br/>
+<sub><b>300+ Hours</b></sub>
+<br/>
+<sub>⭐⭐⭐⭐⭐</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/FORZA%20HORIZON-FFD700?style=for-the-badge&logo=xbox&logoColor=white&labelColor=black"/>
+<br/>
+<img src="https://progress-bar.xyz/95/?scale=100&title=Progress&width=150&color=ffd700&suffix=%"/>
+<br/>
+<sub><b>600+ Hours</b></sub>
+<br/>
+<sub>⭐⭐⭐⭐⭐</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/FAR%20CRY%203-FF0000?style=for-the-badge&logo=ubisoft&logoColor=white&labelColor=black"/>
+<br/>
+<img src="https://progress-bar.xyz/100/?scale=100&title=Completed&width=150&color=ff0000&suffix=%"/>
+<br/>
+<sub><b>400+ Hours</b></sub>
+<br/>
+<sub>⭐⭐⭐⭐⭐</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/JUST%20CAUSE%203-FF4500?style=for-the-badge&logo=square-enix&logoColor=white&labelColor=black"/>
+<br/>
+<img src="https://progress-bar.xyz/100/?scale=100&title=Completed&width=150&color=ff4500&suffix=%"/>
+<br/>
+<sub><b>350+ Hours</b></sub>
+<br/>
+<sub>⭐⭐⭐⭐⭐</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/NFS%20MOST%20WANTED-FFA500?style=for-the-badge&logo=ea&logoColor=white&labelColor=black"/>
+<br/>
+<img src="https://progress-bar.xyz/100/?scale=100&title=Completed&width=150&color=ffa500&suffix=%"/>
+<br/>
+<sub><b>450+ Hours</b></sub>
+<br/>
+<sub>⭐⭐⭐⭐⭐</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/AMONG%20US-00FF00?style=for-the-badge&logo=steam&logoColor=white&labelColor=black"/>
+<br/>
+<img src="https://progress-bar.xyz/90/?scale=100&title=Progress&width=150&color=00ff00&suffix=%"/>
+<br/>
+<sub><b>200+ Hours</b></sub>
+<br/>
+<sub>⭐⭐⭐⭐</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/MORE%20GAMES-1E90FF?style=for-the-badge&logo=steam&logoColor=white&labelColor=black"/>
+<br/>
+<img src="https://progress-bar.xyz/85/?scale=100&title=Library&width=150&color=1e90ff&suffix=%"/>
+<br/>
+<sub><b>150+ Games</b></sub>
+<br/>
+<sub>⭐⭐⭐⭐⭐</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/ACHIEVEMENTS-FFD700?style=for-the-badge&logo=trophy&logoColor=white&labelColor=black"/>
+<br/>
+<img src="https://progress-bar.xyz/92/?scale=100&title=Unlocked&width=150&color=ffd700&suffix=%"/>
+<br/>
+<sub><b>5000+ Unlocked</b></sub>
+<br/>
+<sub>⭐⭐⭐⭐⭐</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/PLAYTIME-FF1493?style=for-the-badge&logo=clock&logoColor=white&labelColor=black"/>
+<br/>
+<img src="https://progress-bar.xyz/99/?scale=100&title=Dedication&width=150&color=ff1493&suffix=%"/>
+<br/>
+<sub><b>10,000+ Hours</b></sub>
+<br/>
+<sub>⭐⭐⭐⭐⭐</sub>
+</td>
+</tr>
 </table>
 
-<!-- Language Stats -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmathashaan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&border_radius=10&langs_count=8" alt="Top Languages" />
+<br/>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=azmathashaan&custom_title=Contribution%20Graph&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+<!-- Epic Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Trophy Section -->
-<h2>🏆 GitHub Trophies</h2>
-
-<img src="https://github-profile-trophy.vercel.app/?username=azmathashaan&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Connect Section with Animated Icons -->
+<!-- Gaming Setup -->
 <h2>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32px">
-  Let's Connect
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="35"/>
+BATTLE STATION
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="35"/>
 </h2>
 
-<p>
-  <a href="https://twitter.com/azmathashaan" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/azmathashaan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/azmathashaan" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://github.com/azmathashaan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://dev.to/azmathashaan" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
-  </a>
-  <a href="https://medium.com/@azmathashaan" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-</p>
+<table align="center">
+<tr>
+<td>
+
+```js
+const BattleStation = {
+    GPU: "RTX 4090 🔥",
+    CPU: "Intel i9-13900K ⚡",
+    RAM: "64GB DDR5 💪",
+    Storage: "4TB NVMe SSD 💾",
+    Monitor: "4K 165Hz Gaming 🖥️",
+    Mouse: "Logitech G Pro X 🖱️",
+    Keyboard: "Razer BlackWidow ⌨️",
+    Headset: "HyperX Cloud Alpha 🎧",
+    Status: "READY TO DOMINATE 🎮"
+};
+```
+
+</td>
+<td>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Epic Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+<!-- GitHub Stats Gaming Theme -->
+<h2>
+<img src="https://user-images.githubusercontent.com/74038190/216122003-73ed7730-e3d1-499c-9eba-da8f5df94083.png" width="35"/>
+PLAYER STATS
+<img src="https://user-images.githubusercontent.com/74038190/216122003-73ed7730-e3d1-499c-9eba-da8f5df94083.png" width="35"/>
+</h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=azmathashaan&show_icons=true&theme=synthwave&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff6b00&text_color=ffffff&border_radius=15&custom_title=AZMAT%20HASHAAN%20-%20GAMER%20STATS" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=azmathashaan&theme=highcontrast&hide_border=true&background=000000&stroke=ff0000&ring=ff6b00&fire=ffd500&currStreakLabel=ff0000&border_radius=15" width="48%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=azmathashaan&custom_title=GAMING%20ACTIVITY%20GRAPH&bg_color=000000&color=ff0000&line=ff6b00&point=ffd500&area=true&hide_border=true&area_color=ff0000" width="98%"/>
+
+<br/>
+
+<!-- Epic Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+<!-- Achievements -->
+<h2>
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35"/>
+ACHIEVEMENTS UNLOCKED
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35"/>
+</h2>
+
+<img src="https://github-profile-trophy.vercel.app/?username=azmathashaan&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+
+<br/>
+
+<!-- Epic Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+<!-- Social Links Gaming Style -->
+<h2>
+<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="35"/>
+CONNECT WITH ME
+<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="35"/>
+</h2>
+
+<a href="https://twitter.com/azmathashaan">
+  <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=black" height="35"/>
+</a>
+<a href="https://instagram.com/azmathashaan">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black" height="35"/>
+</a>
+<a href="https://twitch.tv/azmathashaan">
+  <img src="https://img.shields.io/badge/TWITCH-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=black" height="35"/>
+</a>
+<a href="https://youtube.com/@azmathashaan">
+  <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=black" height="35"/>
+</a>
+<a href="https://discord.gg/azmathashaan">
+  <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=black" height="35"/>
+</a>
+<a href="https://steamcommunity.com/id/azmathashaan">
+  <img src="https://img.shields.io/badge/STEAM-000000?style=for-the-badge&logo=steam&logoColor=white&labelColor=1b2838" height="35"/>
+</a>
+
+<br/>
+<br/>
 
 <!-- Support Section -->
-<h2>☕ Support My Work</h2>
+<h2>
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="35"/>
+SUPPORT MY GRIND
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="35"/>
+</h2>
 
-<p>
-  <a href="https://www.buymeacoffee.com/azmathashaan" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-  <a href="https://ko-fi.com/azmathashaan" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
-  </a>
-  <a href="https://paypal.me/azmathashaan" target="_blank">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
-  </a>
-</p>
+<a href="https://www.buymeacoffee.com/azmathashaan">
+  <img src="https://img.shields.io/badge/BUY%20ME%20A%20COFFEE-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=000000" height="40"/>
+</a>
+<a href="https://ko-fi.com/azmathashaan">
+  <img src="https://img.shields.io/badge/KO--FI-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=000000" height="40"/>
+</a>
+<a href="https://paypal.me/azmathashaan">
+  <img src="https://img.shields.io/badge/PAYPAL-00457C?style=for-the-badge&logo=paypal&logoColor=white&labelColor=000000" height="40"/>
+</a>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
+<br/>
 
-<!-- Quote Section -->
-<h2>💭 Daily Inspiration</h2>
+<!-- Epic Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it's%20bad.&author=Cory%20House" alt="Quote" />
+<!-- Quote -->
+<h2>💀 GAMER MINDSET 💀</h2>
 
-<!-- Snake Animation -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Winners%20never%20quit%2C%20quitters%20never%20win.%20GG%20EZ.&author=Azmat%20Hashaan&border=true" />
+
+<br/>
+
+<!-- Contribution Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azmathashaan/azmathashaan/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azmathashaan/azmathashaan/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/azmathashaan/azmathashaan/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<br/>
 
-<!-- Sparkles -->
-<p>✨ <em>"Building the future, one commit at a time"</em> ✨</p>
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:ff6b00,100:ffd500&height=120&section=footer"/>
+
+<!-- Final Message -->
+<h3>
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25"/>
+"GAME OVER? NEVER. RESPAWN AND DOMINATE!"
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25"/>
+</h3>
 
 </div>
